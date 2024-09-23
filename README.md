@@ -14,5 +14,5 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 ## Contents 📂
 
-**Week 1.** Introduction - Sep 23, 2024 - 14.00 - 📖 [Notes]()
+**Week 1.** Introduction - Sep 23, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week1.pdf)
 
