@@ -2,6 +2,9 @@
 
 This is an undergraduate course repository of Machine Learning Methods and Applications at Eskisehir Technical University, Department of Statistics.
 
+## Homeworks
+
+**Homework 1.** [Project proposal](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/tree/main/Homeworks/HW%231) (deadline. Oct 13 - 23:59)
 
 ## Books 📚
 
@@ -12,7 +15,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 3.  
 
 
-## Contents 📂
+## Teaching Materials 📂
 
 **Week 1.** Introduction - Sep 23, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week1.pdf)
 
