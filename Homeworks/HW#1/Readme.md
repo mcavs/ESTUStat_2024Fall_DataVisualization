@@ -8,4 +8,4 @@ You must pull a request for your report, prepared in PDF format and named "First
 * A summary of at least 300 words explaining the topic and its details,
 * Introduce the dataset you will use and specify its source (the institution or organization that created or shared the dataset along with the access link).
 
-### You can check the [Projects](https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/tree/main/Projeler) folder for project details.
+### You can check the [Projects](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/tree/main/Projects) folder for project details.
