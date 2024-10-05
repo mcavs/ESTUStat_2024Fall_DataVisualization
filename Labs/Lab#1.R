@@ -4,11 +4,9 @@
 # Oct 7, 2024
 # ---------------------------------------------------------------------------
 
-install.packages("palmerpenguins") # to access the dataset
 install.packages("ggplot2") # to use ggplot visualization tools
 install.packages("dplyr") # to use the new pipe (|>) operator and perform data manipulation operations
 install.packages("tidyverse")
-library(palmerpenguins)
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
