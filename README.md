@@ -9,20 +9,20 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Homework 2.** \<TBA\>
 
-**Homework 3.** <TBA>
+**Homework 3.** \<TBA\>
 
-**Homework 4.** <TBA>
+**Homework 4.** \<TBA\>
 
-**Homework 5.** <TBA>
+**Homework 5.** \<TBA\>
 
 
 ## Books 📚
 
 1. [Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
-2. <TBA>  
+2. \<TBA\>  
 
-3. <TBA>
+3. \<TBA\>
 
 
 ## Teaching Materials 📂
