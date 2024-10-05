@@ -2,17 +2,27 @@
 
 This is an undergraduate course repository of Machine Learning Methods and Applications at Eskisehir Technical University, Department of Statistics.
 
+
 ## Homeworks 
 
 **Homework 1.** [Project proposal](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/tree/main/Homeworks/HW%231) (deadline. Oct 13 - 23.59)
+
+**Homework 2.** <TBA>
+
+**Homework 3.** <TBA>
+
+**Homework 4.** <TBA>
+
+**Homework 5.** <TBA>
+
 
 ## Books 📚
 
 1. [Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
-2.   
+2. <TBA>  
 
-3.  
+3. <TBA>
 
 
 ## Teaching Materials 📂
