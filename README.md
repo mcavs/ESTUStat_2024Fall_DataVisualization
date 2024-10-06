@@ -20,7 +20,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 1. [Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
-2. \<TBA\>  
+2. [Healy - Data Visualization: A Practical Introduction](https://socviz.co/index.html#preface) 
 
 3. \<TBA\>
 
