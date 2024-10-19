@@ -1,6 +1,6 @@
 # Homework 2
 
-You must pull a request your report, which you have prepared in PDF format, with the necessary work done on the two cases you selected and named "FirstNameLastName.pdf" to this folder by 23:59 on November 3, 2024. 
+You must pull a request for your report, which you have prepared in PDF format, with the necessary work done on the two cases you selected and named "FirstNameLastName.pdf" to this folder by 23:59 on November 3, 2024. 
 
 **Case 1)** Using the apartments dataset in the DALEX package, perform visualizations that can answer the questions below:
 
