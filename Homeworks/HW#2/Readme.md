@@ -22,7 +22,7 @@ You must pull a request for your report, which you have prepared in PDF format, 
 - Visualize and interpret the average vehicle price (Price) by vehicle type (Type). (10 + 10 points)
 - Investigate and visualize how the average vehicle price (Price) varies by vehicle type (Type) according to reliability (Reliability), and provide your interpretation. (15 + 15 points)
 
-**Some Important Tips**
+**Tips**
 
 - Please pay attention to your comments, assignment titles, and subtitles. To provide better comments, remember that you should first familiarize yourself with the dataset. You can search Google for detailed information about the dataset.
 - To call data from a package in R, first load the package using `install.packages("package_name")`, then call the package with `library(package_name)`, and finally call the dataset with `data(dataset_name)`. Make sure you see the dataset in the Environment screen.
