@@ -35,6 +35,8 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Week 4.** Visualizing Distributions - Oct 14, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week4.pdf)
 
+**Week 5.** Visualizing Proportions - Oct 21, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week5.pdf)
+
 
 ## Project &#x1F680;
 
