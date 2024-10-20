@@ -31,7 +31,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Week 2.** Visual Aesthetics - Sep 30, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week2.pdf)
 
-**Week 3.** Visualizing Amounts - Oct 7, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week3.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab#1.R)
+**Week 3.** Visualizing Amounts - Oct 7, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week3.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab%231.R)
 
 **Week 4.** Visualizing Distributions - Oct 14, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week4.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab2.R)
 
