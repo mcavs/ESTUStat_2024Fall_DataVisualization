@@ -37,6 +37,8 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Week 5.** Visualizing Proportions - Oct 21, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week5.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab3.R)
 
+**Week 6.** Visualizing Associations - Nov 11, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week6.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab3.R)
+
 
 ## Project &#x1F680;
 
