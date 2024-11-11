@@ -6,4 +6,4 @@ Write a progress report containing the following items regarding your project an
 * Draw suitable plots for answering the research questions*
 * Interpret the plots to answer the research questions
 
-*Draw different type of plot for each research question
+*Use a different type of visualization (e.g., visualizing distribution, properties, associations, etc.) for each research question!
