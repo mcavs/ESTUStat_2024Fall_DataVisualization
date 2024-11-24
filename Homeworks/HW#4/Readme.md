@@ -1,6 +1,6 @@
 # Homework 4
 
-By selecting any two of the cases listed below, you are required to create a report in PDF format named `FirstNameLastName` and submit it via a pull-request to this folder by **Thursday, December 8, 23:59**. The report must include:
+By selecting any two of the cases listed below, you are required to create a report in PDF format named `FirstNameLastName` and submit it via a pull-request to this folder by **December 8, 23:59**. The report must include:
 
 1. **Summary Section**
 2. **Data Introduction Section** for the chosen cases
