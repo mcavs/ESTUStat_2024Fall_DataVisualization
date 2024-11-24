@@ -48,3 +48,8 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 [Projects from 2022/23 Fall](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/Readme.md)
 
 [Projects from 2021/22 Fall](https://github.com/mcavs/ESTUStat_2021Guz_VeriGorsellestirme/tree/main/Projeler)
+
+
+## Contact
+
+Please contact me via e-mail <mustafacavus@eskisehir.edu.tr> if you would like to attend the course officially from other departments of Eskişehir Technical University in the coming years.
