@@ -11,7 +11,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Homework 3.** [Project report I](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Homeworks/HW%233/Readme.md) (deadline. Nov 24 - 23.59)
 
-**Homework 4.** \<TBA\>
+**Homework 4.** [Practice](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/tree/main/Homeworks/HW%234#readme) (deadline. Dec 8 - 23.59)
 
 **Homework 5.** \<TBA\>
 
