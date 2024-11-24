@@ -37,9 +37,11 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 
 **Week 5.** Visualizing Proportions - Oct 21, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week5.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab3.R)
 
-**Week 6.** Visualizing Associations - Nov 11, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week6.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab3.R)
+**Week 6.** Visualizing Associations - Nov 11, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week6.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab4.R)
 
-**Week 7.** Visualizing Time Series - Nov 18, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week7.pdf) 
+**Week 7.** Visualizing Time Series - Nov 18, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week7.pdf) :computer: [Lab](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab5.R) 
+
+**Week 8.** Visualizing Geospatial Data - Nov 25, 2024 - 14.00 - 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week8.pdf) 
 
 
 ## Project &#x1F680;
