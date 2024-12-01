@@ -38,6 +38,7 @@ This is an undergraduate course repository of Machine Learning Methods and Appli
 | 7    | Visualizing Time Series       | Nov 18, 2024     | 14.00 | 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week7.pdf)                       | :computer: [Lab5](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab5.R)                                                        |
 | 8    | Visualizing Geospatial Data   | Nov 25, 2024     | 14.00 | 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week8.pdf)                       | :computer: [Lab6](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/Labs/Lab6.R)   |
 | 9    | The Principles of Plot Design I  | Dec 2, 2024     | 14.00 | 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week9.pdf)                       | -  |
+| 10   | The Principles of Plot Design II  | Dec 16, 2024     | 14.00 | 📖 [Notes](https://github.com/mcavs/ESTUStat_2024Fall_DataVisualization/blob/main/DataViz_202425Fall_Week10.pdf)                       | -  |
 
 
 ## Project &#x1F680;
